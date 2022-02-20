@@ -1,0 +1,17 @@
+{
+  "name": "walmartca-account-generator",
+  "version": "1.0.0",
+  "description": "Generate Walmart CA accounts using proxies and a catchall. Made using node js playwright.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chef#0999",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "faker": "^5.5.3",
+    "fs-extra": "^10.0.0",
+    "playwright": "^1.17.1"
+  }
+}
